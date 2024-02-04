@@ -1,6 +1,5 @@
 ## Hello everyone!
 
-I'm Luca, and I'm a developer. Here are some of the things I know:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,bootstrap,typescript,angular,java,git,github,postgres,spring)](https://skillicons.dev)
 
