@@ -1,7 +1,7 @@
 ## Hello everyone!
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,bootstrap,typescript,angular,java,git,github,postgres,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,bootstrap,typescript,angular,java,git,github,postgres,spring,docker)](https://skillicons.dev)
 
 I am passionate about programming and the entire field of computer science👨‍💻.
 
