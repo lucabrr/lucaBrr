@@ -10,3 +10,5 @@ I love to continuously learn and stay updated with the latest technologies and t
 Feel free to reach out to me if you need any help or have any questions!
 
 Keep pushing! :computer:
+
+![Codewars](https://github.r2v.ch/codewars?user=lucabrr)
